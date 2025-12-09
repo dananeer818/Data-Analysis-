@@ -138,7 +138,6 @@ using **Power BI Desktop**.
 
 ## 🔹 Author
 
-**Name:** [Your Name]  
 **Field:** Data Analysis  
 **Program:** Digital Egypt Initiative / Graduation Project  
 
