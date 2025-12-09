@@ -7,7 +7,7 @@ This project was developed as part of my **graduation project / digital initiati
 
 ---
 
-## 🔹 Project Architecture
+## Project Architecture
 
 The data flow follows this pipeline:
 
@@ -19,7 +19,7 @@ CSV File
 
 ---
 
-## 🔹 Technologies Used
+## Technologies Used
 
 - **SQL Server** – Data storage, cleaning, transformation, and data warehouse modeling  
 - **Power BI Desktop** – Data visualization and dashboard creation  
@@ -27,7 +27,7 @@ CSV File
 
 ---
 
-## 🔹 Data Warehouse Design (Star Schema)
+## Data Warehouse Design (Star Schema)
 
 The data warehouse is designed using the **Star Schema** model:
 
@@ -45,7 +45,7 @@ All dimension tables are connected to the fact table using **One-to-Many relatio
 
 ---
 
-## 🔹 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The dashboard includes the following main KPIs:
 
@@ -60,7 +60,7 @@ All KPIs are created using **DAX Measures** and are fully responsive to filters 
 
 ---
 
-## 🔹 Dashboard Pages
+## Dashboard Pages
 
 The Power BI dashboard contains four main pages:
 
@@ -90,7 +90,7 @@ All pages include **interactive slicers** for dynamic filtering.
 
 ---
 
-## 🔹 Repository Contents
+## Repository Contents
 
 - `SQLQuery3-1.sql`  
   → Full SQL script for:
@@ -105,7 +105,7 @@ All pages include **interactive slicers** for dynamic filtering.
 
 ---
 
-## 🔹 How to Run the Project
+## How to Run the Project
 
 1. Open SQL Server and create a database named:
 supply chain
@@ -125,7 +125,7 @@ using **Power BI Desktop**.
 
 ---
 
-## 🔹 Key Concepts Applied
+## Key Concepts Applied
 
 - Data Cleaning using SQL Views  
 - Data Warehouse Design  
@@ -136,11 +136,11 @@ using **Power BI Desktop**.
 
 ---
 
-## 🔹 Author
+## Author
 
 **Field:** Data Analysis  
 **Program:** Digital Egypt Initiative / Graduation Project  
 
 ---
 
-✅ This project demonstrates my ability to work with real-world data, build a complete data warehouse, and create professional business intelligence dashboards.
+ This project demonstrates my ability to work with real-world data, build a complete data warehouse, and create professional business intelligence dashboards.
